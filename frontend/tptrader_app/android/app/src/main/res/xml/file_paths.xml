@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Allow camera to save temp images -->
+    <external-cache-path
+        name="external_cache"
+        path="." />
+
+    <!-- For gallery / file imports -->
+    <external-files-path
+        name="external_files"
+        path="Pictures" />
+
+    <cache-path
+        name="cache"
+        path="." />
+</paths>
+
+
