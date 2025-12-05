@@ -1,0 +1,29 @@
+# Python virtual environment
+venv/
+__pycache__/
+backend/venv/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/app/api/__pycache__/
+backend/app/models/__pycache__/
+backend/app/services/__pycache__/
+backend/app/schemas/__pycache__/
+
+# Compiled Python files
+*.pyc
+
+# Flutter build folders
+frontend/build/
+frontend/.dart_tool/
+frontend/.packages
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.idea/
+frontend/.vscode/
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
